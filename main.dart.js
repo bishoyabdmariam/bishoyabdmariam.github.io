@@ -61484,7 +61484,7 @@ return s.wA(!s.d)},
 $S:0}
 A.AZ.prototype={
 M(a){var s=null,r=A.c2(s,20*$.a8().gby(),s),q=230*$.a8().gc_(),p=A.c2(s,20*$.a8().gby(),s),o=A.c2(s,20*$.a8().gby(),s),n=$.a8().gc_(),m=t.E
-return A.a9a(A.a9g(A.j1(A.b([B.vm,B.ym,r,new A.co(new A.aB(q,0,q,0),A.j1(A.b([B.Md,p,B.F5,o,A.a0t(B.Aa,B.ew,20*$.a8().gby(),20*n),A.c2(s,20*$.a8().gby(),s)],m),B.a2,B.T),s),A.c2(s,50*$.a8().gby(),s),A.o4(A.b([A.a_h(B.Ll,new A.Rh(),B.ik),A.a_h(B.Li,new A.Ri(),B.ik)],m),B.fS,B.as),A.c2(s,50*$.a8().gby(),s)],m),B.a2,B.T),s,B.aa,s,s,B.ax))}}
+return A.a9a(A.a9g(A.j1(A.b([B.vm,B.ym,r,new A.co(new A.aB(q,0,q,0),A.j1(A.b([B.Md,p,B.F5,o,A.a0t(B.Aa,B.ew,20*$.a8().gby(),20*n),A.c2(s,20*$.a8().gby(),s)],m),B.a2,B.T),s),A.c2(s,50*$.a8().gby(),s),A.o4(A.b([A.a_h(B.Ll,new A.Rh(),B.ik),A.a_h(B.Lh,new A.Ri(),B.ik)],m),B.fS,B.as),A.c2(s,50*$.a8().gby(),s)],m),B.a2,B.T),s,B.aa,s,s,B.ax))}}
 A.Rh.prototype={
 $0(){},
 $S:0}
@@ -61492,14 +61492,14 @@ A.Ri.prototype={
 $0(){},
 $S:0}
 A.nE.prototype={
-M(a){var s=null,r=100*$.a8().gc_(),q=A.c2(s,40*$.a8().gby(),s),p=A.B4("assets/welcome photo.png",B.de,700*$.a8().gby(),1/0),o=A.c2(s,40*$.a8().gby(),s),n=t.E,m=A.o4(A.b([A.c2(s,s,40*$.a8().gc_()),B.Lh],n),B.T,B.as),l=A.c2(s,40*$.a8().gby(),s),k=$.a8().gc_()
+M(a){var s=null,r=100*$.a8().gc_(),q=A.c2(s,40*$.a8().gby(),s),p=A.B4("assets/welcome photo.png",B.de,700*$.a8().gby(),1/0),o=A.c2(s,40*$.a8().gby(),s),n=t.E,m=A.o4(A.b([A.c2(s,s,40*$.a8().gc_()),B.Lg],n),B.T,B.as),l=A.c2(s,40*$.a8().gby(),s),k=$.a8().gc_()
 return A.a9a(A.a9g(A.eO(s,A.j1(A.b([q,p,o,m,l,A.a0t(B.AP,B.uX,40*$.a8().gby(),40*k)],n),B.a2,B.T),B.t,s,s,s,s,s,s,new A.aB(r,0,r,0),s,s,s),s,B.aa,s,s,B.ax))}}
 A.yW.prototype={
 M(a){var s,r,q=null,p=20*$.a8().gc_(),o=5*$.a8().gby(),n=10*$.a8().gc_(),m=$.a8().gc_(),l=t.E
-m=A.o4(A.b([A.B4("assets/sydalex_icon.png",B.de,50*$.a8().gc_(),50*m),A.c2(q,q,10*$.a8().gc_()),B.Lj],l),B.T,B.as)
+m=A.o4(A.b([A.B4("assets/sydalex_icon.png",B.de,50*$.a8().gc_(),50*m),A.c2(q,q,10*$.a8().gc_()),B.Li],l),B.T,B.as)
 s=A.c2(q,q,10*$.a8().gc_())
 r=10*$.a8().gc_()
-return new A.co(new A.aB(p,o,p,o),A.o4(A.b([new A.co(new A.aB(n,0,n,0),m,q),s,new A.co(new A.aB(r,0,r,0),A.o4(A.b([A.a_h(B.Lg,new A.MO(a),q),A.c2(q,q,20*$.a8().gc_()),A.a_h(B.Lf,new A.MP(a),q)],l),B.fS,B.as),q)],l),B.oA,B.as),q)}}
+return new A.co(new A.aB(p,o,p,o),A.o4(A.b([new A.co(new A.aB(n,0,n,0),m,q),s,new A.co(new A.aB(r,0,r,0),A.o4(A.b([A.a_h(B.Lf,new A.MO(a),q),A.c2(q,q,20*$.a8().gc_()),A.a_h(B.Lk,new A.MP(a),q)],l),B.fS,B.as),q)],l),B.oA,B.as),q)}}
 A.MO.prototype={
 $0(){A.nK(this.a,!1).mj(A.a8P(new A.MN(),null,t.z))},
 $S:0}
@@ -65603,8 +65603,8 @@ B.tF=new A.o3(2,"bubble")
 B.tG=new A.fy(null,null)
 B.bD=new A.a0g(1,"down")
 B.Jo=new A.p(!0,null,null,null,null,null,22,B.be,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Lk=new A.fG("Featured products",null,B.Jo,null,null,null,null)
-B.Bl=A.b(s([B.Lk]),t.E)
+B.Lj=new A.fG("Featured products",null,B.Jo,null,null,null,null)
+B.Bl=A.b(s([B.Lj]),t.E)
 B.F5=new A.u9(B.aK,B.T,B.as,B.a2,null,B.bD,null,B.Bl,null)
 B.F6=new A.Dp(null,null)
 B.c4=new A.lS(0,"idle")
@@ -66080,13 +66080,13 @@ B.JW=new A.p(!0,B.l,null,"Roboto",B.A,null,null,null,null,null,null,null,null,nu
 B.K5=new A.p(!0,B.l,null,"Roboto",B.A,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.Le=new A.dh(B.KM,B.Ip,B.Jd,B.JV,B.K7,B.HW,B.IS,B.I_,B.JJ,B.Kj,B.Jj,B.Kk,B.Kt,B.JW,B.K5)
 B.ev=new A.p(!0,null,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Lf=new A.fG("Cottons",null,B.ev,null,null,null,null)
-B.Lg=new A.fG("Marble",null,B.ev,null,null,null,null)
+B.Lf=new A.fG("Marble",null,B.ev,null,null,null,null)
 B.Jz=new A.p(!0,null,null,null,null,null,36,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Lh=new A.fG("Marble",null,B.Jz,null,null,null,null)
-B.Li=new A.fG("Contact Us",null,B.ev,null,null,null,null)
+B.Lg=new A.fG("Marble",null,B.Jz,null,null,null,null)
+B.Lh=new A.fG("Contact Us",null,B.ev,null,null,null,null)
 B.Jp=new A.p(!0,null,null,null,null,null,28,B.be,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Lj=new A.fG("Sydalex",null,B.Jp,null,null,null,null)
+B.Li=new A.fG("Sydalex",null,B.Jp,null,null,null,null)
+B.Lk=new A.fG("Cotton",null,B.ev,null,null,null,null)
 B.Ll=new A.fG("About Us",null,B.ev,null,null,null,null)
 B.ND=new A.a_V(0,"system")
 B.Lm=new A.v6(null)
