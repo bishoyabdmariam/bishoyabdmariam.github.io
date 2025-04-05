@@ -81081,7 +81081,7 @@ return s.CU(!s.d)},
 $S:0}
 A.rd.prototype={
 J(a){var s=null,r=A.bm(a,B.ba,t.w).w.a.a<=600?20*$.ad().gcf():50*$.ad().gcf(),q=A.bz(s,40*$.ad().gbj(),s),p=A.bz(B.ym,700*$.ad().gbj(),1/0),o=A.bz(s,40*$.ad().gbj(),s),n=t.p,m=A.h4(A.b([A.bz(s,s,40*$.ad().gcf()),A.d3("Granite",s,s,s,s,A.d4(s,s,s,s,s,s,s,s,s,s,s,$.ad().eI(36),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],n),B.M,B.Q,B.R),l=A.bz(s,40*$.ad().gbj(),s),k=$.ad().gcf(),j=$.ad().gbj()
-return A.zu(s,A.zY(A.dC(s,A.f0(A.b([q,p,o,m,l,A.B3(B.bA,A.b([new A.e6("assets/green verdi.png","green verdi",$.hk,7,s),new A.e6("assets/yellow verdi.png","yellow verdi",$.hk,8,s),new A.e6("assets/ghandola.png","Ghandola",$.hk,9,s),new A.e6("assets/ramadi.png","Ramadi",$.hk,10,s),new A.e6("assets/halayeb.png","Halayeb",$.hk,12,s),new A.e6("assets/red aswan.png","Red Aswan",$.hk,13,s)],n),B.kg,40*j,40*k),A.bz(s,30*$.ad().gbj(),s),A.bz(s,50*$.ad().gbj(),s),B.j7],n),B.M,B.Q,B.R),B.q,s,s,s,s,s,s,new A.an(r,0,r,0),s,s,s),s,B.G,s,s,B.ag),s)}}
+return A.zu(s,A.zY(A.dC(s,A.f0(A.b([q,p,o,m,l,A.B3(B.bA,A.b([new A.e6("assets/green verdi.png","green verdi",$.hk,7,s),new A.e6("assets/yellow verdi.png","yellow verdi",$.hk,8,s),new A.e6("assets/ghandola.png","Ghandola",$.hk,9,s),new A.e6("assets/ramadi.png","Ramadi",$.hk,10,s),new A.e6("assets/halayeb.png","Halayeb",$.hk,12,s),new A.e6("assets/red_aswan.png","Red Aswan",$.hk,13,s)],n),B.kg,40*j,40*k),A.bz(s,30*$.ad().gbj(),s),A.bz(s,50*$.ad().gbj(),s),B.j7],n),B.M,B.Q,B.R),B.q,s,s,s,s,s,s,new A.an(r,0,r,0),s,s,s),s,B.G,s,s,B.ag),s)}}
 A.rf.prototype={
 J(a){var s=null,r=A.bz(s,20*$.ad().gbj(),s),q=A.bm(a,B.ba,t.w).w.a.a<=600?20*$.ad().gcf():50*$.ad().gcf(),p=A.bz(s,30*$.ad().gbj(),s),o=t.p,n=A.h4(A.b([A.d3("Best Selling Products",s,s,s,s,A.d4(s,s,s,s,s,s,s,s,s,s,s,$.ad().eI(22),s,s,B.b2,s,s,!0,s,s,s,s,s,s,s,s),s,s)],o),B.M,B.ed,B.R),m=A.bz(s,30*$.ad().gbj(),s),l=$.ad().gcf()
 return A.zu(s,A.zY(A.f0(A.b([B.yQ,r,new A.c2(new A.an(q,0,q,0),A.f0(A.b([B.Tr,p,n,m,A.B3(B.bA,B.G5,B.eE,20*$.ad().gbj(),20*l),A.bz(s,20*$.ad().gbj(),s)],o),B.M,B.Q,B.R),s),A.bz(s,50*$.ad().gbj(),s),B.j7],o),B.M,B.Q,B.R),s,B.G,s,s,B.ag),s)}}
@@ -85311,7 +85311,7 @@ B.FU=A.b(s([]),t.XS)
 B.K0=new A.p_("assets/samaha.png","Samaha","/marble",null)
 B.K2=new A.p_("assets/halayeb.png","Halayeb","/marble",null)
 B.K3=new A.p_("assets/ghandola.png","Ghandola","/granite",null)
-B.K1=new A.p_("assets/red aswan.png","Red Aswan","/granite",null)
+B.K1=new A.p_("assets/red_aswan.png","Red Aswan","/granite",null)
 B.G5=A.b(s([B.K0,B.K2,B.K3,B.K1]),t.p)
 B.yn=new A.ue(0,"topLeft")
 B.yq=new A.ue(3,"bottomRight")
