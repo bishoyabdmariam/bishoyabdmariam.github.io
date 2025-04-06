@@ -81595,7 +81595,7 @@ A.JM.prototype={
 oq(a){return this.a7z(a)},
 a7z(a){var s=0,r=A.O(t.H),q
 var $async$oq=A.P(function(b,c){if(b===1)return A.L(c,r)
-while(true)switch(s){case 0:q="https://wa.me/"+a+"?text=Hi"
+while(true)switch(s){case 0:q="https://wa.me/"+a+"?text=Hello"
 s=5
 return A.V(A.aoN(A.ev(q,0,null)),$async$oq)
 case 5:s=c?2:4
