@@ -92792,7 +92792,7 @@ u3(){var s=0,r=A.C(t.H),q=1,p,o=this,n,m,l,k,j
 var $async$u3=A.D(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
 o.dZ(new A.o7())
-n="https://sydalex.com/auth-callback"
+n="https://sydalex.com/#/home"
 l=A.yf()
 if(B.c.p(l.gnI(l),"localhost")){l=A.yf()
 n=l.gnI(l)+"/auth-callback"}s=6
