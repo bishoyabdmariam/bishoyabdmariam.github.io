@@ -29465,7 +29465,7 @@ while(true)switch(s){case 0:if($.ai==null)A.aHr()
 $.ai.toString
 s=2
 return A.F(A.apb(),$async$aED)
-case 2:$.aJa().oJ("eval",["    // Block swipe-back when touching near the left edge\n    document.addEventListener('touchstart', function(e) {\n      if (e.touches.length > 1 || (e.touches.length === 1 && e.touches[0].clientX < 10)) {\n        e.preventDefault();\n      }\n    }, { passive: false });\n\n    // Optional: Also block Chrome/Edge swipe navigation on Android\n    window.addEventListener('wheel', function(e) {\n      if (e.defaultPrevented || e.deltaX !== 0) return;\n      if (Math.abs(e.deltaY) < Math.abs(e.deltaX)) return;\n      if (e.deltaX > 50) {\n        e.preventDefault();\n      }\n    }, { passive: false });\n  "])
+case 2:$.aJa().oJ("eval",["    document.addEventListener('touchstart', function(e) {\n      if (e.touches.length > 1 || (e.touches.length === 1 && e.touches[0].clientX < 10)) {\n        e.preventDefault();\n      }\n    }, { passive: false });\n  "])
 if($.ai==null)A.aHr()
 q=$.ai
 q.toString
