@@ -98226,7 +98226,7 @@ return A.j1(s,s,A.kK(A.cA(s,A.cg(A.b([B.CI,new A.a9(s,40*o,s,s),new A.a9(1/0,n,B
 A.t6.prototype={
 a4(){return new A.a_5()}}
 A.a_5.prototype={
-K(a){var s,r,q,p,o,n,m,l,k=null,j=t.Y,i=t.i,h=A.Wo(new A.aAO(),B.CK,B.bI,B.dW,new A.ax(40,0,j),i),g=$.l().gag(),f=t.w,e=A.U(a,B.m,f).w.a.a<=600?1/0:900*$.l().gH(),d=A.U(a,B.m,f).w.a.a<=600?500*$.l().gag():400*$.l().gag()
+K(a){var s,r,q,p,o,n,m,l,k=null,j=t.Y,i=t.i,h=A.Wo(new A.aAO(),B.CK,B.bI,B.dW,new A.ax(40,0,j),i),g=$.l().gag(),f=t.w,e=A.U(a,B.m,f).w.a.a<=600?1/0:900*$.l().gH(),d=A.U(a,B.m,f).w.a.a<=600?300*$.l().gag():400*$.l().gag()
 d=A.Wo(new A.aAP(),new A.a9(e,d,B.a2r,k),B.bI,B.JN,new A.ax(40,0,j),i)
 e=$.l().gag()
 s=A.aQ("Our Products",k,k,k,A.b3(k,k,k,k,k,k,k,k,k,k,k,$.l().b3(16),k,k,B.ae,k,k,!0,k,k,k,k,k,k,k,k),k,k)
@@ -98929,7 +98929,7 @@ c=5*$.l().gag()
 b=t.p
 p=A.cA(a,A.cR(A.b([a4,A.fO(A.cA(a,A.cg(A.b([j,i,new A.a9(a,16*h,a,a),g,new A.a9(a,20*f,a,a),A.mR(new A.b8(new A.a5(d,c,d,c),A.aQ(a2,a,a,a,A.b3(a,a,B.j,a,a,a,a,a,a,a,a,$.l().b3(12),a,a,B.da,a,a,!0,a,a,a,a,a,a,a,a),a,a),a),new A.avY(),e)],b),B.w,a,B.bc,B.x,0),B.o,a,a,new A.cV(B.j,a,a,new A.cM(B.G,new A.aU(l,l),B.G,new A.aU(k,k)),a,a,B.ac),a,400*n,a,new A.a5(o,m,o,m),a,a,a),1)],b),B.w,B.y,B.x),B.o,a,a,new A.cV(B.nO,a,a,s,r,a,B.ac),a,a,new A.a5(q,p,q,p),a,a,a,a)
 a4=p}else{s=$.l().gag()
-s=A.nC(a,new A.a9(A.U(a5,B.m,a4).w.a.a,500*s,A.wZ(a0,B.n9,a,a),a),a,a,0,a,0,a)
+s=A.nC(a,new A.a9(A.U(a5,B.m,a4).w.a.a,300*s,A.wZ(a0,B.n9,a,a),a),a,a,0,a,0,a)
 r=t.p
 if(A.U(a5,B.m,a4).w.a.a>600){a4=$.l().gH()
 q=$.l().gag()
